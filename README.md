@@ -258,5 +258,4 @@ The most useful checks I used while iterating:
 
 ---
 
-Course: **CSCE 636 (Deep Learning)**, Texas A&M University  
 Author: **Vigya Awasthi**
